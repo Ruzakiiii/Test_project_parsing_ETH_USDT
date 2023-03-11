@@ -72,7 +72,7 @@ class Select_Ethereum():
             print(f"[!] price in relation to one percent: {float(last['data'][3]['priceUsd'])/100}")
             save_one_select()
 
-        time.sleep(5)
+        time.sleep(120)
 
         if __name__ == '__main__':
             Select_Ethereum().select_Ethereum()
