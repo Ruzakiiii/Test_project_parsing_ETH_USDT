@@ -1,0 +1,321 @@
+{
+    "data": [
+        {
+            "poolId": "30192",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "USD Coin",
+                "symbol": "USDC",
+                "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+            },
+            "dexerInfo": {
+                "id": 1344,
+                "name": "PancakeSwap (V2)"
+            },
+            "priceUsd": "1441.5681940286386",
+            "volume24h": "9529321.037320001",
+            "liquidity": "12636917.416861296",
+            "priceChange24h": "0.0301766793",
+            "pairContractAddress": "0xea26b78255df2bbc31c1ebf60010d78670185bd0",
+            "updateDate": 1678536107733,
+            "liquidityScore": "583.4153721433456",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "20038",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "Wrapped BNB",
+                "symbol": "WBNB",
+                "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+            },
+            "dexerInfo": {
+                "id": 1344,
+                "name": "PancakeSwap (V2)"
+            },
+            "priceUsd": "1442.6963980510066",
+            "volume24h": "5737169.918754201",
+            "liquidity": "63446225.8862617",
+            "priceChange24h": "0.0277911295",
+            "pairContractAddress": "0x74e4716e431f45807dcf19f284c7aa99f18a4fbc",
+            "updateDate": 1678536185853,
+            "liquidityScore": "690.9867206076985",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "30067",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "Wrapped BNB",
+                "symbol": "WBNB",
+                "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+            },
+            "dexerInfo": {
+                "id": 1445,
+                "name": "Biswap"
+            },
+            "priceUsd": "1436.2710873405995",
+            "volume24h": "2240687.466135639",
+            "liquidity": "16132925.944795674",
+            "priceChange24h": "0.0274454936",
+            "pairContractAddress": "0x5bf6941f029424674bb93a43b79fc46bf4a67c21",
+            "updateDate": 1678536042203,
+            "liquidityScore": "599.6980247868139",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "30006",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "address": "0x55d398326f99059ff775485246999027b3197955"
+            },
+            "dexerInfo": {
+                "id": 1445,
+                "name": "Biswap"
+            },
+            "priceUsd": "1442.2970223860318",
+            "volume24h": "1577594.3848911284",
+            "liquidity": "5130376.960301052",
+            "priceChange24h": "0.0306564452",
+            "pairContractAddress": "0x63b30de1a998e9e64fd58a21f68d323b9bcd8f85",
+            "updateDate": 1678536097776,
+            "liquidityScore": "523.31914909636",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "20171",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "BTCB Token",
+                "symbol": "BTCB",
+                "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+            },
+            "dexerInfo": {
+                "id": 1344,
+                "name": "PancakeSwap (V2)"
+            },
+            "priceUsd": "1439.6268774980165",
+            "volume24h": "1484604.0051625732",
+            "liquidity": "28661900.922211073",
+            "priceChange24h": "0.0306132664",
+            "pairContractAddress": "0xd171b26e4484402de70e3ea256be5a2630d7e88d",
+            "updateDate": 1678535456058,
+            "liquidityScore": "638.0117896858286",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "20353",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "BTCB Token",
+                "symbol": "BTCB",
+                "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+            },
+            "dexerInfo": {
+                "id": 1445,
+                "name": "Biswap"
+            },
+            "priceUsd": "1441.5417793296722",
+            "volume24h": "1247107.381064146",
+            "liquidity": "25508412.09447463",
+            "priceChange24h": "0.0338053795",
+            "pairContractAddress": "0x6216e04cd40db2c6fbed64f1b5830a98d3a91740",
+            "updateDate": 1678534786781,
+            "liquidityScore": "630.2410921495973",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "5436272",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "Wrapped BNB",
+                "symbol": "WBNB",
+                "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+            },
+            "dexerInfo": {
+                "id": 5803,
+                "name": "THENA"
+            },
+            "priceUsd": "1436.4956244126467",
+            "volume24h": "1136118.0433407028",
+            "liquidity": "14012520.020809183",
+            "priceChange24h": "0.0293434831",
+            "pairContractAddress": "0x1d168c5b5dea1c6da0e9fd9bf4b7607e4e9d8eec",
+            "updateDate": 1678535971554,
+            "liquidityScore": "590.3039543734367",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "30017",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "address": "0x55d398326f99059ff775485246999027b3197955"
+            },
+            "dexerInfo": {
+                "id": 1344,
+                "name": "PancakeSwap (V2)"
+            },
+            "priceUsd": "1445.0514838775098",
+            "volume24h": "842119.481290808",
+            "liquidity": "1212941.1857113307",
+            "priceChange24h": "0.030213742",
+            "pairContractAddress": "0x531febfeb9a61d948c384acfbe6dcc51057aea7e",
+            "updateDate": 1678536185906,
+            "liquidityScore": "427.1770827048832",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "6032929",
+            "platform": {
+                "id": 26,
+                "name": "Klaytn",
+                "cryptoId": 4256,
+                "dexerPlatformName": "Klaytn"
+            },
+            "baseToken": {
+                "name": "Orbit Bridge Klaytn Ethereum",
+                "symbol": "oETH",
+                "address": "0x34d21b1e550d73cee41151c77f3c73359527a396"
+            },
+            "quoteToken": {
+                "name": "Orbit Bridge Klaytn USD Tether",
+                "symbol": "oUSDT",
+                "address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167"
+            },
+            "dexerInfo": {
+                "id": 1232,
+                "name": "KLAYswap"
+            },
+            "priceUsd": "1440.7768291920113",
+            "volume24h": "772837.7850895872",
+            "liquidity": "3670223.6170838866",
+            "priceChange24h": "0.0293259774",
+            "pairContractAddress": "0x029e2a1b2bb91b66bd25027e1c211e5628dbcb93",
+            "updateDate": 1678536168551,
+            "liquidityScore": "500.99071264786505",
+            "confidenceScore": "1"
+        },
+        {
+            "poolId": "61",
+            "platform": {
+                "id": 14,
+                "name": "BNB Smart Chain (BEP20)",
+                "cryptoId": 1839,
+                "dexerPlatformName": "BSC"
+            },
+            "baseToken": {
+                "name": "Ethereum Token",
+                "symbol": "ETH",
+                "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            },
+            "quoteToken": {
+                "name": "Tether USD",
+                "symbol": "USDT",
+                "address": "0x55d398326f99059ff775485246999027b3197955"
+            },
+            "dexerInfo": {
+                "id": 1329,
+                "name": "MDEX (BSC)"
+            },
+            "priceUsd": "1434.1554747310793",
+            "volume24h": "279878.4261507497",
+            "liquidity": "2016398.619484494",
+            "priceChange24h": "0.024997829",
+            "pairContractAddress": "0x0fb881c078434b1c0e4d0b64d8c64d12078b7ce2",
+            "updateDate": 1678535435023,
+            "liquidityScore": "461.0614104669748",
+            "confidenceScore": "1"
+        }
+    ],
+    "status": {
+        "timestamp": "2023-03-11T12:25:19.752Z",
+        "error_code": "0",
+        "error_message": "SUCCESS",
+        "elapsed": "0",
+        "credit_count": 0
+    }
+}
