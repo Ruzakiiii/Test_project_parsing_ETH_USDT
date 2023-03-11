@@ -7,6 +7,7 @@ All libraries:
 3. json
 4. time 
 
-<img src='https://user-images.githubusercontent.com/104256395/224484682-d955660d-e9ed-4e13-966f-e5eb229d396d.png')>
+![image](https://user-images.githubusercontent.com/104256395/224484837-002a965b-284d-488f-93a9-6a7f118f2257.png)
+
 
 Write: Monitoring
