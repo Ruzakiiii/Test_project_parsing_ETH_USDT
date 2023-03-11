@@ -1,6 +1,4 @@
-# Test_project_parsing_ETH_USDT
-
-All libraries:
+# All libraries:
 
 1. requests
 2. art
