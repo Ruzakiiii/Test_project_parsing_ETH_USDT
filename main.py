@@ -14,19 +14,7 @@ def start():
     if question == 'Monitoring':
         Select_Ethereum().select_Ethereum()
 
-
-def select1():
-    url = 'https://api.coinmarketcap.com/dexer/v3/dexer/pair-list?base-address=0x2170ed0880ac9a755fd29b2688956bd959f933f8&start=1&limit=10&platform-id=14'
-    response = requests.get(url)
-
-
-    price_ETH_USDT = json.loads(response.text)
-    price_ETH_USDT_TO_DICT = dict(price_ETH_USDT)
-
-    a = price_ETH_USDT_TO_DICT['data'][0]
-
-    print(a)
-
+        
 def save_one_select():
 
     url = 'https://api.coinmarketcap.com/dexer/v3/dexer/pair-list?base-address=0x2170ed0880ac9a755fd29b2688956bd959f933f8&start=1&limit=10&platform-id=14'
